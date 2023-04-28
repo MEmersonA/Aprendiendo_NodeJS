@@ -5,4 +5,4 @@ console.log(nombre)
 nombre = "Juaquín"
 console.log(nombre)
 
-console.log("Hola mundo")
+console.log("Hola mundo jsjs lol")
